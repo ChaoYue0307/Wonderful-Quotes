@@ -1,6 +1,6 @@
-# vue-cli
+# Wonderful-Quotes
 
-> A Vue.js project
+> A Vue.js project practice
 
 ## Build Setup
 
